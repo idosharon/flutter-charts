@@ -56,7 +56,7 @@ class Makjax extends StatelessWidget {
       )
     ];
 
-    var chart = charts.Series(
+    var chart = charts.BarChart(
       series
     );
 
